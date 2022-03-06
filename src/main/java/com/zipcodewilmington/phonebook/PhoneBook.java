@@ -59,7 +59,6 @@ public class PhoneBook {
         return returnList;
     }
 
-    public Map<String, List<String>> getMap() {
-        return phonebook;
+
     }
-}
+
